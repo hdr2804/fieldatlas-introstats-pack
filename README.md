@@ -17,8 +17,9 @@ for POIDH bounty [Base #1554](https://poidh.xyz/base/bounty/1554).
   revision under CC BY 4.0. Licence: CC BY 4.0 — see `ATTRIBUTION.txt`.
 
 Build sources, corpus and evidence (answers run 5/5 with citations;
-retrieval check 11/12 in top 3):
-https://github.com/0x94t3z/fieldatlas/pull/30 (pull request) — build with
-`tools/packs/build_introstats_pack.py` from that branch.
+retrieval check 11/12 in top 3) are in the pull request to
+https://github.com/0x94t3z/fieldatlas that adds
+`tools/packs/extract_openstax_introstats.py`,
+`tools/packs/build_introstats_pack.py` and `tools/packs/introstats/`.
 
 Import in Field Atlas: Library → Import, then pick this file.
