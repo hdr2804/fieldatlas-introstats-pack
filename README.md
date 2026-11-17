@@ -17,8 +17,9 @@ for POIDH bounty [Base #1554](https://poidh.xyz/base/bounty/1554).
   revision under CC BY 4.0. Licence: CC BY 4.0 — see `ATTRIBUTION.txt`.
 
 Build sources, corpus and evidence (answers run 5/5 with citations;
-retrieval check 11/12 in top 3) are in the pull request to
-https://github.com/0x94t3z/fieldatlas that adds
+retrieval check 11/12 in top 3; 16 corpus tests pass, 34 tests in total
+incl. the Prealgebra and stream-pack suites) are in the pull request
+https://github.com/0x94t3z/fieldatlas/pull/30 that adds
 `tools/packs/extract_openstax_introstats.py`,
 `tools/packs/build_introstats_pack.py` and `tools/packs/introstats/`.
 
