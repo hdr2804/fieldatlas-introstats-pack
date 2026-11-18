@@ -16,6 +16,12 @@ for POIDH bounty [Base #1554](https://poidh.xyz/base/bounty/1554).
   `50ec91749080bb040b57bb40c34337cacc994cba` (17 March 2026), the last
   revision under CC BY 4.0. Licence: CC BY 4.0 — see `ATTRIBUTION.txt`.
 
+Scope follows the bounty text and the existing Prealgebra pack template:
+the 80 numbered sections, with worked examples, exercises, the glossary
+and the formula tables. The preface, the 13 chapter introductions and the
+other six appendices are not included — the pack is the book's teaching
+content, not a reprint of its front and back matter.
+
 Build sources, corpus and evidence (answers run 5/5 with citations;
 retrieval check 11/12 in top 3; 16 corpus tests pass, 34 tests in total
 incl. the Prealgebra and stream-pack suites) are in the pull request
